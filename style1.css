@@ -74,7 +74,7 @@ header{
 	background-color: var(--blackColor);
 	background-position: center;
 	background-repeat: no-repeat;
-	back-ground-size: cover;
+	background-size: cover;
 	position: relative;
 }
 
